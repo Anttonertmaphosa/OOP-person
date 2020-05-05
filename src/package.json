@@ -1,0 +1,11 @@
+{
+  "name": "person-class-master",
+  "version": "1.0.0",
+  "description": "",
+  "main": "person.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "author": "",
+  "license": "ISC"
+}
